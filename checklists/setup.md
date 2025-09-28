@@ -1,0 +1,3 @@
+- [ ] Update system
+- [ ] Create user
+- [ ] Configure SSH
