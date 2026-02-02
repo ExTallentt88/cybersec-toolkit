@@ -1,8 +1,8 @@
 
 
-        # 🛡️ Top Cybersecurity Tools  
+        #  Top Cybersec Tools  
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)]()  
+
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)]()  
 [![Security](https://img.shields.io/badge/Focus-Security-critical?logo=probot)]()  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
@@ -12,7 +12,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 🔍 Reconnaissance & Scanning
+## Reconnaissance & Scanning
 | Tool | Description |
 |------|-------------|
 | **Nmap** | Legendary network scanner. Detects open ports, services, and even operating systems. |
@@ -22,7 +22,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 💻 Web Application Testing
+## Web Application Testing
 | Tool | Description |
 |------|-------------|
 | **Burp Suite** | Powerful toolkit for intercepting and modifying HTTP(S) traffic. |
@@ -31,7 +31,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 🧰 Exploitation Frameworks
+## Exploitation Frameworks
 | Tool | Description |
 |------|-------------|
 | **Metasploit Framework** | The Swiss Army knife of penetration testing with hundreds of exploits and payloads. |
@@ -40,7 +40,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 📡 Wireless & Network Security
+## Wireless & Network Security
 | Tool | Description |
 |------|-------------|
 | **Aircrack-ng** | Suite of tools for auditing and cracking Wi-Fi networks. |
@@ -49,7 +49,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 🔒 Forensics & OSINT
+## Forensics & OSINT
 | Tool | Description |
 |------|-------------|
 | **Autopsy** | Digital forensics tool for analyzing hard drives and file systems. |
@@ -58,7 +58,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 🐧 Linux Security Essentials
+## Linux Security Essentials
 | Tool | Description |
 |------|-------------|
 | **Fail2ban** | Protects against brute-force attacks by banning suspicious IPs. |
@@ -67,7 +67,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## 📀 Security-Focused Operating Systems
+## Security-Focused Operating Systems
 | Distro | Description |
 |--------|-------------|
 | **Kali Linux** | The industry standard for penetration testing, preloaded with hundreds of tools. |
@@ -76,7 +76,7 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 
 ---
 
-## ✨ Why These Tools?
+## Why These Tools?
 ✔️ They help you **discover vulnerabilities**  
 ✔️ Analyze and secure **networks & systems**  
 ✔️ Learn the mindset of both **attackers and defenders**  
