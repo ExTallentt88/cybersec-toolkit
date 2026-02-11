@@ -6,7 +6,7 @@
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)]()  
 [![Security](https://img.shields.io/badge/Focus-Security-critical?logo=probot)]()  
 
-Cybersecurity is not only about defense — it’s about **understanding vulnerabilities** and learning how to protect against them.  
+Cybersecurity is not only about defense - it’s about **understanding vulnerabilities** and learning how to protect against them.  
 Here’s a curated list of the most popular and powerful tools every ethical hacker and security researcher should know.  
 
 ---
