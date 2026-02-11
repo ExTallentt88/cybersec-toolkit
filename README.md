@@ -5,7 +5,6 @@
 
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)]()  
 [![Security](https://img.shields.io/badge/Focus-Security-critical?logo=probot)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
 Cybersecurity is not only about defense — it’s about **understanding vulnerabilities** and learning how to protect against them.  
 Here’s a curated list of the most popular and powerful tools every ethical hacker and security researcher should know.  
@@ -81,7 +80,6 @@ Here’s a curated list of the most popular and powerful tools every ethical hac
 ✔️ Analyze and secure **networks & systems**  
 ✔️ Learn the mindset of both **attackers and defenders**  
 
-⚠️ **Disclaimer:** These tools are meant for educational and ethical purposes only. Use them responsibly and within the law.  
 
 ---
 
